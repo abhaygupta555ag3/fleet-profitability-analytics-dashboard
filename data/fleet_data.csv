@@ -1,0 +1,13 @@
+VehicleID,VehicleName,PurchaseYear,PurchasePrice,DownPayment,EMI,LoanYears,Revenue,FuelCost,MaintenanceCost,Bookings,RentalDays,BookingSource,Status
+
+CAR001,Tata Tiago,2018,600000,150000,17000,3,40000,8000,0,22,28,Zoomcar,Sold
+
+CAR002,Swift,2018,800000,200000,22000,3,80000,15000,0,32,29,Zoomcar,Sold
+
+CAR003,Tata Tiago,2018,600000,150000,17000,3,55000,10000,0,30,28,Zoomcar,Sold
+
+CAR004,Swift,2018,750000,150000,23000,3,55000,14000,0,28,27,Zoomcar+Offline,Sold
+
+CAR005,Hyundai i20,2018,850000,180000,25000,3,70000,15000,0,20,30,Zoomcar+Offline,Sold
+
+CAR006,Hyundai i20,2018,850000,180000,25000,3,68000,13000,0,24,28,Zoomcar+Offline,Sold
