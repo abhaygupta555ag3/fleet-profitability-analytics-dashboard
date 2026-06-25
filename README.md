@@ -62,3 +62,14 @@ End-to-end business analytics project built on real operational data from Cab Ag
 ---
 
 Built by Abhay Gupta | MBA Finance and Business Analytics | DBS Global University
+---
+
+## Key Findings
+
+1. Selling low-ROI vehicles first (Verna, Ecosport) during COVID extended business survival by 4+ months and preserved Rs 62K/month in EMI savings.
+
+2. Zoomcar insurance arbitrage saved Rs 25K-3.75L/month in third-party insurance costs — making the commission worth paying in early fleet-building phase.
+
+3. Fleet utilisation stayed near 100% in Indore student market by targeting semester-end travel demand — seasonal booking pattern identified and exploited.
+
+4. Managed wind-down recovered Rs 29L across all vehicle disposals with zero bad debt and zero unpaid driver dues despite COVID pressure.
