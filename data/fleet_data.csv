@@ -1,13 +1,28 @@
-VehicleID,VehicleName,PurchaseYear,PurchasePrice,DownPayment,EMI,LoanYears,Revenue,FuelCost,MaintenanceCost,Bookings,RentalDays,BookingSource,Status
-
-CAR001,Tata Tiago,2018,600000,150000,17000,3,40000,8000,0,22,28,Zoomcar,Sold
-
-CAR002,Swift,2018,800000,200000,22000,3,80000,15000,0,32,29,Zoomcar,Sold
-
-CAR003,Tata Tiago,2018,600000,150000,17000,3,55000,10000,0,30,28,Zoomcar,Sold
-
-CAR004,Swift,2018,750000,150000,23000,3,55000,14000,0,28,27,Zoomcar+Offline,Sold
-
-CAR005,Hyundai i20,2018,850000,180000,25000,3,70000,15000,0,20,30,Zoomcar+Offline,Sold
-
-CAR006,Hyundai i20,2018,850000,180000,25000,3,68000,13000,0,24,28,Zoomcar+Offline,Sold
+CAB AGGRESSION — Vehicle Master Register (All 15 Cars),,,,,,,,,,,,,
+Car ID,Model,"Month
+Bought",Year,"Purchase
+Price (?)","Down
+Payment (?)","EMI
+(?/month)","Avg Revenue
+(?/month)","Fuel Cost
+(?/month)","Avg Booking
+Days","Net Contribution
+(?/month)",Disposal Status,"Sale
+Price (?)","Sale
+Month/Year"
+CAR001,Tata Tiago,Mar 2018,2018,"6,00,000","1,50,000","17,000","45,000","8,000",28,"20,000",Retained till closure,"1,80,000",Aug 2021
+CAR002,Maruti Swift,May 2018,2018,"8,00,000","2,00,000","22,000","57,000","15,000",29,"20,000",Retained till closure,"2,20,000",Aug 2021
+CAR003,Tata Tiago,Jul 2018,2018,"6,00,000","1,50,000","17,000","45,000","8,000",28,"20,000",Retained till closure,"1,70,000",Aug 2021
+CAR004,Maruti Swift,Sep 2018,2018,"8,00,000","2,00,000","22,000","57,000","15,000",29,"20,000",Retained till closure,"2,10,000",Aug 2021
+CAR005,Hyundai i20,Dec 2018,2018,"9,00,000","2,20,000","24,000","70,000","12,000",30,"34,000",Retained till closure,"2,30,000",Aug 2021
+CAR006,Hyundai i20,Feb 2019,2019,"9,00,000","2,20,000","24,000","70,000","12,000",30,"34,000",Retained till closure,"2,20,000",Aug 2021
+CAR007,Hyundai Verna,Mar 2019,2019,"14,00,000","3,50,000","35,000","90,000","20,000",20,"35,000",Sold — low ROI,"7,50,000",Oct 2020
+CAR008,Mahindra Scorpio,Mar 2019,2019,"14,00,000","3,00,000","32,000","1,10,000","23,000",30,"55,000",Sold — distressed,"6,00,000",Mar 2021
+CAR009,Mahindra Scorpio,May 2019,2019,"14,00,000","3,00,000","32,000","1,10,000","23,000",30,"55,000",Sold — distressed,"6,00,000",Mar 2021
+CAR010,Hyundai Creta,Jun 2019,2019,"12,00,000","2,80,000","30,000","1,10,000","22,000",30,"58,000",Sold — distressed,"5,50,000",Mar 2021
+CAR011,Ford Ecosport,Jun 2019,2019,"10,00,000","2,50,000","27,000","60,000","18,000",24,"15,000",Sold — low ROI,"4,00,000",Oct 2020
+CAR012,Hyundai i20,Aug 2019,2019,"9,00,000","2,20,000","24,000","70,000","12,000",30,"34,000",Retained till closure,"2,00,000",Aug 2021
+CAR013,Maruti Brezza,Oct 2019,2019,"9,50,000","2,30,000","25,000","75,000","14,000",28,"36,000",Sold — distressed,"3,80,000",Mar 2021
+CAR014,Maruti Swift,Dec 2019,2019,"8,00,000","2,00,000","22,000","57,000","15,000",29,"20,000",Retained till closure,"2,00,000",Aug 2021
+CAR015,Hyundai Creta,Dec 2019,2019,"12,00,000","2,80,000","30,000","1,10,000","22,000",30,"58,000",Sold — distressed,"5,20,000",Mar 2021
+FLEET TOTAL,,,,"1,48,50,000","35,50,000","3,83,000","11,36,000","2,39,000",,"5,14,000",,,
